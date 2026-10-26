@@ -140,10 +140,10 @@ Khác biệt hoàn toàn với các phần mềm cắt bớt tính năng, khóa 
 
 Bạn cần tư vấn chọn soundcard, hỗ trợ cấu hình đường truyền livestream hoặc muốn giao lưu, chia sẻ preset giọng hát cùng hàng nghìn người dùng KTune? Hãy kết nối ngay với chúng tôi:
 
-- 🌐 **Website chính thức:** [https://ktune.vn](https://ktune.vn)
-- 📖 **Thư viện hướng dẫn kỹ thuật:** [https://ktune.vn/guides/](https://ktune.vn/guides/)
-- 💬 **Fanpage Facebook hỗ trợ (KTune Labs):** [https://fb.com/KTuneLabs](https://fb.com/KTuneLabs)
-- 👥 **Nhóm Cộng đồng Facebook (Chia sẻ Preset & Hỏi đáp):** [https://fb.com/groups/ktune](https://fb.com/groups/ktune)
+- 🌐 **Website chính thức:** [KTune Studio (ktune.vn)](https://ktune.vn)
+- 📖 **Thư viện hướng dẫn kỹ thuật:** [Cẩm nang hát live & cấu hình âm thanh](https://ktune.vn/guides/)
+- 💬 **Hỗ trợ trực tiếp:** [Fanpage KTune Labs](https://fb.com/KTuneLabs)
+- 👥 **Cộng đồng người dùng:** [Tham gia cộng đồng KTune trên Facebook](https://fb.com/groups/ktune)
 
 ---
 
@@ -161,5 +161,5 @@ Bạn cần tư vấn chọn soundcard, hỗ trợ cấu hình đường truyề
 ---
 
 <p align="center">
-  © <strong>KTune Studio</strong> (<a href="https://ktune.vn">ktune.vn</a>) · Phát triển bởi <strong>KTune Labs</strong> (<a href="https://fb.com/KTuneLabs">fb.com/KTuneLabs</a> · <a href="https://fb.com/groups/ktune">fb.com/groups/ktune</a>)
+  © <strong>KTune Studio</strong> (<a href="https://ktune.vn">ktune.vn</a>) · <a href="https://fb.com/KTuneLabs">Fanpage KTune Labs</a> · <a href="https://fb.com/groups/ktune">Cộng đồng KTune</a>
 </p>
