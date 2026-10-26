@@ -118,15 +118,21 @@ Khác biệt hoàn toàn với các phần mềm cắt bớt tính năng, khóa 
 
 ### Chuyên mục kỹ thuật trọng tâm
 - 🎚️ **[Cấu hình âm thanh & ASIO Soundcard](https://ktune.vn/guides/category/cau-hinh-am-thanh-asio/):** Thiết lập Buffer Size, Sample Rate 48kHz và tối ưu độ trễ dưới 3ms trên Windows & macOS.
-- 📡 **[Hướng dẫn Livestream OBS & TikTok Live Studio](https://ktune.vn/guides/category/huong-dan-livestream/):** Định tuyến âm thanh (Audio Routing) không dây, chống vọng nhạc nền và giữ chất lượng âm thanh lossless.
-- 🎵 **[Chỉnh Auto-Tune AI & Làm chủ giọng hát](https://ktune.vn/guides/category/chinh-auto-tune-giong-hat/):** Cách chọn Retune Speed, Humanize, Vibrato và phối hợp Vang ngắn / Vang dài cho từng thể loại nhạc Việt.
+- 📡 **[Hướng dẫn Livestream & Định tuyến âm thanh](https://ktune.vn/guides/category/huong-dan-livestream/):** Định tuyến âm thanh (Audio Routing) sang OBS / TikTok Live Studio, chống vọng nhạc nền và giữ chất lượng âm thanh lossless.
+- 🎵 **[Kỹ thuật Vocal & Auto-Tune AI](https://ktune.vn/guides/category/ky-thuat-vocal-auto-tune/):** Cách chọn Retune Speed, Humanize, Vibrato, hát Karaoke đổi tone và phối hợp Vang ngắn / Vang dài cho từng thể loại nhạc Việt.
+- 🎛️ **[Kiến trúc Phần mềm & DAW Plugin](https://ktune.vn/guides/category/kien-truc-phan-mem-daw/):** So sánh bản độc lập (Standalone) và VST3 / Audio Unit (AU) trên Cubase, Studio One, Logic Pro.
 
 ### Bài viết hướng dẫn nổi bật
-1. 📘 **[Hướng dẫn cài đặt KTune Studio và cấu hình soundcard ASIO độ trễ dưới 3ms từ A–Z](https://ktune.vn/guides/huong-dan-cai-dat-ktune-studio-asio-soundcard-khong-do-tre/)** *(Focusrite Scarlett, Icon Upod Pro, XOX K10, V8, Audient, Steinberg...)*
-2. 📡 **[Cách kết nối KTune Studio với OBS và TikTok Live Studio để hát livestream chuẩn phòng thu](https://ktune.vn/guides/cach-hat-livestream-tiktok-obs-voi-ktune-studio/)**
-3. 🎹 **[Cách dùng AI Key tự dò tone bài hát và chỉnh Auto-Tune mượt như ca sĩ](https://ktune.vn/guides/cach-do-tone-bai-hat-ai-chinh-auto-tune-muot-nhu-ca-si/)**
-4. 🔌 **[Hướng dẫn cài đặt cáp âm thanh ảo VB-CABLE trên Windows cho KTune Studio](https://ktune.vn/guides/cai-dat-vb-cable-windows-livestream-ktune-studio/)**
-5. 🍎 **[Hướng dẫn cài đặt BlackHole 2ch trên macOS để livestream với KTune Studio](https://ktune.vn/guides/cai-dat-blackhole-2ch-macos-livestream-ktune-studio/)**
+1. 🎤 **[Cách hát Karaoke YouTube tự động đổi tone và đặt mốc hiệu ứng trên KTune Studio](https://ktune.vn/guides/cach-hat-karaoke-youtube-tu-dong-doi-tone-va-dat-moc-hieu-ung/)**
+2. 🖥️ **[Phần mềm hát live & Auto-Tune miễn phí trên máy tính Windows & macOS](https://ktune.vn/guides/phan-mem-hat-live-tune-mien-phi-tren-may-tinh-windows-macos/)**
+3. 🎙️ **[Hướng dẫn Auto Mic Setup căn chỉnh micro và đo âm vực giọng tự động](https://ktune.vn/guides/huong-dan-auto-mic-setup-can-chinh-micro-va-do-am-vuc-giong/)**
+4. 📘 **[Hướng dẫn cài đặt KTune Studio và cấu hình soundcard ASIO độ trễ dưới 3ms từ A–Z](https://ktune.vn/guides/huong-dan-cai-dat-ktune-studio-asio-soundcard-khong-do-tre/)**
+5. 📡 **[Cách kết nối KTune Studio với OBS và TikTok Live Studio để hát livestream chuẩn phòng thu](https://ktune.vn/guides/cach-hat-livestream-tiktok-obs-voi-ktune-studio/)**
+6. 🎹 **[Cách dùng AI Key tự dò tone bài hát và chỉnh Auto-Tune mượt như ca sĩ](https://ktune.vn/guides/cach-do-tone-bai-hat-ai-chinh-auto-tune-muot-nhu-ca-si/)**
+7. 🎚️ **[Cấu hình phần mềm hát live cho Soundcard K10, V8, Icon Upod Pro](https://ktune.vn/guides/cau-hinh-phan-mem-hat-live-cho-soundcard-k10-v8-icon-upod-pro/)**
+8. 🔊 **[Bảng âm thanh PK Livestream TikTok: Phím tắt Soundboard và Giọng FX](https://ktune.vn/guides/bang-am-thanh-pk-livestream-tiktok-8-phim-tat-soundboard-va-giong-fx/)**
+9. 💿 **[Cách thu âm hát live tách riêng Vocal & Nhạc nền, chuẩn hóa -14 LUFS và xuất MP3/M4A](https://ktune.vn/guides/cach-thu-am-hat-live-tach-vocal-nhac-nen-va-chuan-hoa-14-lufs/)**
+10. 🔌 **[Cài đặt cáp âm thanh ảo VB-CABLE (Windows)](https://ktune.vn/guides/cai-dat-vb-cable-windows-livestream-ktune-studio/)** & **[BlackHole 2ch (macOS)](https://ktune.vn/guides/cai-dat-blackhole-2ch-macos-livestream-ktune-studio/)**
 
 ---
 
